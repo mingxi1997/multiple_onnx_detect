@@ -1,0 +1,9 @@
+rtsp://admin:123456@192.168.0.131/video1
+rtsp://admin:123456@192.168.0.132/video1
+rtsp://admin:123456@192.168.0.133/video1
+rtsp://admin:123456@192.168.0.134/video1
+rtsp://admin:123456@192.168.0.135/video1
+rtsp://admin:123456@192.168.0.136/video1
+rtsp://admin:123456@192.168.0.137/video1
+rtsp://admin:123456@192.168.0.138/video1
+
